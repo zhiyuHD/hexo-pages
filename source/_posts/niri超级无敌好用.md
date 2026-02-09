@@ -1,7 +1,11 @@
 ---
 title: niri超级无敌好用
 date: 2026-02-08 16:50:12
-tags: arch,zhiyuhd,windows,niri,hyprland
+tags: - arch
+- zhiyuhd
+- windows
+- niri
+- hyprland
 ---
 我说niri超级无敌好用那不是没道理的  
 不仅减少了gui操作，大多数简单的操作都可以通过几个快捷键迅速完成  
